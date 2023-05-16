@@ -10,6 +10,6 @@ biomedical research.
 The goal of this project is to determine whether a person is an alcoholic or not, given the EEG data of that person. 
 We do that by using logistic regression after some pre-processing using Principal Component Analysis. 
 
-## **Note:** We are not taking an intoxicated person to the test, instead, we are testing whether an individual in a sober state is a habituated alcoholic or not.
+***Note: We are not taking an intoxicated person to the test, instead, we are testing whether an individual in a sober state is a habituated alcoholic or not.***
 
-### The presentation and report files of this project are attached.
+### The presentation and report files of this project are attached. Please refer to them for more details.
