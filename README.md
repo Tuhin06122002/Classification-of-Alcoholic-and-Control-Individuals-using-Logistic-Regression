@@ -8,8 +8,8 @@ Nowadays, the automatic identification of alcoholic subjects based on EEG signal
 biomedical research. 
 
 The goal of this project is to determine whether a person is an alcoholic or not, given the EEG data of that person. 
-We do that by using logistic regression after some pre-processing using Principal Component Analysis. 
+We do that by using logistic regression after some pre-processing using Principal Component Analysis. The source of the data in this project is https://www.kaggle.com/datasets/nnair25/Alcoholics?resource=download.
 
 ***Note: We are not taking an intoxicated person to the test, instead, we are testing whether an individual in a sober state is a habituated alcoholic or not.***
 
-### The presentation and report files of this project are attached. Please refer to them for more details.
+**The presentation and report files of this project are attached. Please refer to them for more details.**
