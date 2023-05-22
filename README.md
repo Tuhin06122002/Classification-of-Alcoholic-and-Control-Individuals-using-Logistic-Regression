@@ -12,4 +12,4 @@ We do that by using logistic regression after some pre-processing using Principa
 
 ***Note: We are not taking an intoxicated person to the test, instead, we are testing whether an individual in a sober state is a habituated alcoholic or not.***
 
-**The presentation and report files of this project are attached. Please refer to them for more details.**
+**All the required processing and computation have been done in R and Python. The presentation and report files of this project are attached. Please refer to them for more details.**
